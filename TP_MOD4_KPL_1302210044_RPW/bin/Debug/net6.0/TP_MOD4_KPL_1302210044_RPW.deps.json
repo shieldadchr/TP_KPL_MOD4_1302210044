@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TP_MOD4_KPL_1302210044_RPW/1.0.0": {
+        "runtime": {
+          "TP_MOD4_KPL_1302210044_RPW.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TP_MOD4_KPL_1302210044_RPW/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
